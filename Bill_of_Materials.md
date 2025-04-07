@@ -1,4 +1,4 @@
-|Comment        |Description                                                                                 |Designator                           |DK PN                  |Footprint    |MFG PN         |Quantity|
+|Comment        |Description                                                                                 |Designator                           |DigiKey PN                  |Footprint    |MFG PN         |Quantity|
 |---------------|--------------------------------------------------------------------------------------------|-------------------------------------|-----------------------|-------------|---------------|--------|
 |1N4004         |Diode 400 V 1A Through Hole DO-41                                                           |D1                                   |N4004DICT-ND           |DO41         |1N4004-T       |1       |
 |4K7/5%         |RES 4.7K OHM 5% 1/8W AXIAL                                                                  |R1, R2                               |CF18JT4K70CT-ND        |CF18         |CF18JT4K70     |2       |
