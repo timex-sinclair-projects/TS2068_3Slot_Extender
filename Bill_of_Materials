@@ -1,0 +1,11 @@
+|Comment        |Description                                                                                 |Designator                           |DK PN                  |Footprint    |MFG PN         |Quantity|
+|---------------|--------------------------------------------------------------------------------------------|-------------------------------------|-----------------------|-------------|---------------|--------|
+|1N4004         |Diode 400 V 1A Through Hole DO-41                                                           |D1                                   |N4004DICT-ND           |DO41         |1N4004-T       |1       |
+|4K7/5%         |RES 4.7K OHM 5% 1/8W AXIAL                                                                  |R1, R2                               |CF18JT4K70CT-ND        |CF18         |CF18JT4K70     |2       |
+|EG1218         |SWITCH SLIDE SPDT 200MA 30V                                                                 |SW2, SW3, SW4, SW12, SW13, SW14, SW16|EG1903-ND              |EG1218       |EG1218         |7       |
+|J1021AS35VDC.20|RELAY GEN PURPOSE SPST 3A 5V                                                                |K1                                   |2449-J1021AS35VDC.20-ND|J1021AS      |J1021AS35VDC.20|1       |
+|JTP1230A       |Tactile Switch SPST-NO Top Actuated Through Hole                                            |SW1                                  |679-2429-ND            |TACSW_6.5x4.5|JTP1230A       |1       |
+|PWR2.1_5.5     |Power Barrel Connector Jack 2.10mm ID (0.083"), 5.50mm OD (0.217") Through Hole, Right Angle|J1                                   |EJ503A-ND              |EJ503A       |EJ503A         |1       |
+|TS2068         |                                                                                            |P1, P6                               |                       |TS2068       |               |2       |
+|TS2068_CONN64  |64 Position Female Connector Non Specified - Dual Edge Gold 0.100" (2.54mm) Black           |P2, P3, P4                           |1761469-1-ND           |64CARDEDGE   |1761469-1      |3       |
+|XLMDKVG29M     |3MM BI-COLOR RED/GRN LED                                                                    |D2                                   |1497-XLMDKVG29M-ND     |XLMDKVG29M   |XLMDKVG29M     |1       |
